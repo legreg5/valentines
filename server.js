@@ -1,11 +1,11 @@
 const messages = [
-      "Hello, My Love 🌸",
-      "From the moment I met you, my world got brighter ✨",
+      "My beautifull miss Andre 🌸",
+      "My diamond, not from this world ✨",
       "You are so kind, gentle and pure 🌸",
-      "Your laugh is my favorite music 🎶",
-      "You are beautiful inside and out — more than words can say 💖",
-      "I promise to support you, make you smile, and stand by you always ✨",
-      "So... will you be mine, always? ❤️💍"
+      "Your laugh  have many forms but all are my favorite music 🎶",
+      "the diffrence between reality and a dream became blurry for me 💖",
+      "Cuase being with you feels like a dream ✨",
+      "will you be my valentine miss Ander? 💍"
     ];
 
     const messagesEl = document.getElementById('messages');
