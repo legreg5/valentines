@@ -45,7 +45,7 @@ const messages = [
         updateControls();
         // if last message reached, change next to Yes
         if (idx === messages.length) {
-          nextBtn.textContent = "💍 Ask";
+          nextBtn.textContent = "Yes";
         }
       } else {
         // user clicked final "Ask" -> Show reveal + start hearts
