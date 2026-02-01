@@ -67,9 +67,9 @@ const messages = [
       prevBtn.style.visibility = created.length > 1 ? 'visible' : 'hidden';
       // if we are already at final line, change text
       if (idx >= messages.length) {
-        nextBtn.textContent = '💍 Ask';
+        nextBtn.textContent = 'will you be my valentine';
       } else {
-        nextBtn.textContent = 'Next ➝';
+        nextBtn.textContent = 'yes ➝';
       }
     }
 
@@ -80,7 +80,7 @@ const messages = [
       reveal.setAttribute('aria-hidden','false');
 
       // change final line text exactly as you asked (kept punctuation sweeter)
-      finalLine.textContent = "I LOVE YOU TOO";
+      finalLine.textContent = "Thank you for being my valentine";
 
       // spawn heart rain for a while
       startHeartRain();
