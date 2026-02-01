@@ -5,7 +5,7 @@ const messages = [
       "Your laugh  have many forms but all are my favorite music 🎶",
       "the diffrence between reality and a dream became blurry for me 💖",
       "Cuase being with you feels like a dream ✨",
-      "will you be my valentine miss Ander? 💍"
+      "will you be my valentine miss Andre? "
     ];
 
     const messagesEl = document.getElementById('messages');
