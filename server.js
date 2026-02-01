@@ -69,10 +69,9 @@ const messages = [
       if (idx >= messages.length) {
         nextBtn.textContent = 'will you be my valentine';
       } else {
-        nextBtn.textContent = 'yes ➝';
+        nextBtn.textContent = 'Next ➝';
       }
     }
-
     // REVEAL and hearts rain
     function showReveal(){
       // show reveal panel
